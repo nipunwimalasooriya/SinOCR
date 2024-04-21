@@ -21,7 +21,7 @@ const Header = () => {
         formData.append("file", file);
 
         try {
-            const response = await axios.post("/api/v1/extract_text", formData, {
+            const response = await axios.post("http://16.171.148.194:8000", formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data'
                 }

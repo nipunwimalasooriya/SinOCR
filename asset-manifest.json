@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SinOCR/static/css/main.4f87b2fc.css",
+    "main.js": "/SinOCR/static/js/main.17d83c68.js",
+    "static/js/787.7a118c71.chunk.js": "/SinOCR/static/js/787.7a118c71.chunk.js",
+    "static/media/Layer 0.jpg": "/SinOCR/static/media/Layer 0.97fb6bdbc8982e668b4b.jpg",
+    "static/media/image1.jpg": "/SinOCR/static/media/image1.af4c1ff7c8cedaa81856.jpg",
+    "static/media/image2.jpg": "/SinOCR/static/media/image2.0e850ce9fedba243c009.jpg",
+    "static/media/image3.jpg": "/SinOCR/static/media/image3.46055a944b6fffa6e8b4.jpg",
+    "static/media/image4.jpg": "/SinOCR/static/media/image4.d3e61740276fe93e6bc8.jpg",
+    "static/media/logo.png": "/SinOCR/static/media/logo.fcc112ec6c5fb0fd773a.png",
+    "index.html": "/SinOCR/index.html",
+    "main.4f87b2fc.css.map": "/SinOCR/static/css/main.4f87b2fc.css.map",
+    "main.17d83c68.js.map": "/SinOCR/static/js/main.17d83c68.js.map",
+    "787.7a118c71.chunk.js.map": "/SinOCR/static/js/787.7a118c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f87b2fc.css",
+    "static/js/main.17d83c68.js"
+  ]
+}
